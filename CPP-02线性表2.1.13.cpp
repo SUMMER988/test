@@ -58,6 +58,6 @@ int main()
     std::cout << std::endl;
 
     int x = AA.firstMissingPositive(v);
-    std::cout << x << std::endl;
+    std::cout << "最小的未出现的正整数为:" << x << std::endl;
     return 0;
 }
