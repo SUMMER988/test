@@ -12,10 +12,3 @@ AUTUMN("春天", "温暖"),
 WINTER("春天", "温暖");
 private final String name;
 private final String desc;
-更新笔记
-更新测试
-提交更改
-提交更改
-提交更改
-测试测试测试
-测试反应
